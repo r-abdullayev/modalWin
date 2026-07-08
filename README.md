@@ -2,7 +2,7 @@
 
 This project is a simple and responsive modal window implementation built using **HTML**, **SCSS**, and **CSS**. It provides a clean and accessible way to display modal dialogs on a webpage.
 
-## 📁 Project Structure
+## Project Structure
 
 ```bash
 modalWin/
@@ -16,19 +16,19 @@ modalWin/
 
 ```
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **HTML5** – Semantic structure of the webpage
 - **SCSS** – Modular and maintainable styling
 - **CSS3** – Styling for the modal window
 
-## 🎨 Features
+## Features
 
 - Responsive modal window
 - Clean and accessible design
 - Organized folder structure for easy maintenance
 
-## 🚀 Getting Started
+## Getting Started
 
 To view the modal window locally:
 
